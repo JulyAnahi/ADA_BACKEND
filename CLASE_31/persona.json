@@ -1,0 +1,7 @@
+{
+    "nombre":"Ana",
+    "edad":30,
+    "esEstudiante":true,
+    "hobbies":["correr","dibujar","viajar"]
+    
+}
